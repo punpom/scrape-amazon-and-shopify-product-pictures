@@ -1,6 +1,6 @@
-# simple API scraper
+# Simple product pictures scraper for Amazon and Shopify (soon)
 
-simple API scraper written in typescript
+Simple product pictures scraper for Amazon and Shopify (soon) written in typescript
 
 ## Installation
 
