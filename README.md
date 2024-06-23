@@ -20,6 +20,10 @@ npm run dev
 
 #### Example request
 
+##### Request URL: `http://localhost:3000/api/scrape/amazon`
+
+##### Request body:
+
 ```json
 {
   "url": "https://www.amazon.fr/sp%C3%A9ciales-petits-appareils-%C3%A9lectroniques-performances/dp/B000EGSGVA?pd_rd_w=705Dp&content-id=amzn1.sym.2d94ec53-de1a-4aa7-ba48-9f6fd5d686d3&pf_rd_p=2d94ec53-de1a-4aa7-ba48-9f6fd5d686d3&pf_rd_r=3N8WP6QZZ3GGJNNX8JY4&pd_rd_wg=E9CES&pd_rd_r=8081e886-a21c-4fc4-ae37-a849d5c44ecb&pd_rd_i=B000EGSGVA&psc=1&ref_=pd_bap_d_grid_rp_0_1_ec_pd_hp_d_atf_rp_1_i",
